@@ -9,6 +9,7 @@
         "chatConfig": {
             "enableAutoCreateTopic": true,
             "autoCreateTopicThreshold": 1,
+            "enableHistoryCount": false,
             "enableCompressHistory": false
         }
     },
